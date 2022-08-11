@@ -1,2 +1,1 @@
-# TicTacToe
-Tic Tac Toe / Morpion fait en C
+### Ne jugez pas cela svp... Je l'ai fait dans une soirée.
